@@ -13,3 +13,7 @@ https://hostpresto.com/community/tutorials/how-to-install-jfrog-artifactory-on-u
 https://www.jfrog.com/confluence/display/RTF/Installing+on+Linux+Solaris+or+Mac+OS#InstallingonLinuxSolarisorMacOS-RPMorDebianInstallation
 https://jfrog.com/open-source/#artifactory
 https://www.youtube.com/watch?v=IFF-jnAxlDs(Best working video for artifactory oss installation in ubuntu)
+
+Always Run the artifactory server as
+cd /home/ubuntu/artifactory-oss-6.5.2/bin
+./artifactory.sh
